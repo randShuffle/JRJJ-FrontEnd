@@ -1,0 +1,31 @@
+
+:root {
+    --default:#FB7299;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+   
+}
+
+ul li {
+    list-style: none;
+}
+
+.banxin {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
